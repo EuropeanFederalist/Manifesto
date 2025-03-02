@@ -8,6 +8,7 @@ To represent European citizens and member states fairly, the new federal system 
      -**Parliament (House of the People)**: Elected by European citizens based on population, ensuring that each individual’s voice is proportionally represented.
    
      -**Senate (House of the States)**: Composed of representatives from each member state, giving every nation—large or small—a meaningful role in shaping federal policy.
+   
 Laws and policies would require a majority in both the Parliament and the Senate to pass, replacing the outdated unanimity requirement. This structure respects the principle of “shared sovereignty,” striking a balance between majority rule and state interests.
 
 4. **European Debt Guaranteed by the European Central Bank (ECB)**
